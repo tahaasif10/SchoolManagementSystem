@@ -88,7 +88,6 @@ public:
         delete temp;
         return value;
     }
-    
     bool isEmpty() {
         return front == NULL;
     }
