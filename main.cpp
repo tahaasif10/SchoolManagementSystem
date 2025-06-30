@@ -46,7 +46,6 @@ public:
     }
 };
 
-// Queue implementation for fee processing
 class Queue {
 private:
     struct Node {
