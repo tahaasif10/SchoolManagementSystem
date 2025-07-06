@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// Stack implementation for history tracking
 class Stack {
 private:
     struct Node {
@@ -92,7 +91,6 @@ public:
     }
 };
 
-// Student class
 class Student {
 public:
     int id;
