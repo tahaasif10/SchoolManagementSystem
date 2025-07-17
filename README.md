@@ -9,7 +9,7 @@ A **School Management System** developed in **C++**, designed to handle basic op
 - 🗂️ Save and Load Data using File Handling
 - 📋 Display Records in Structured Format
 - 🔒 Secure Program Exit
-- ➕ Gonna add some more features soon, so stay tuned.
+- ➕ Gonna add some more features soon, so stay tuned!
 
 ## 🛠️ Tech Stack:
 - **Language**: C++
