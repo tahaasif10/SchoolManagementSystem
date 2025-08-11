@@ -90,7 +90,6 @@ public:
         return front == NULL;
     }
 };
-
 class Student {
 public:
     int id;
