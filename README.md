@@ -14,5 +14,5 @@ A **School Management System** developed in **C++**, designed to handle basic op
 ## 🛠️ Tech Stack:
 - **Language**: C++
 - **Concepts Used**: OOP (Classes & Objects), File I/O, Basic Data Structures
-- **IDE Used**: [Dev-C++]
+- **IDE Used**: [Dev-C++] 
 
