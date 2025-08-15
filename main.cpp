@@ -9,7 +9,7 @@ private:
         Node* next;
     };
     Node* top;
-    // this is a comment for my pull request
+    // this is a comment for my pull request 
     
 public:
     Stack() {
@@ -808,4 +808,5 @@ int main() {
     sms.run();
     return 0;
 }
+
 
